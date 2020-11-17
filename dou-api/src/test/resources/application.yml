@@ -1,0 +1,6 @@
+spring:
+  dou-yin:
+    app-key: 6841298079006967303
+    app-secret: 9c8108dc-d72b-43cf-b87f-4ffdbc545ee6
+    version: 2
+    app-host: https://openapi-fxg.jinritemai.com
