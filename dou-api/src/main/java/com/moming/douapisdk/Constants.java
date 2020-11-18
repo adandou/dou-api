@@ -9,12 +9,12 @@ public class Constants {
     public static final String APP_KEY = "app_key";
     public static final String METHOD = "method";
     public static final String TIMESTAMP = "timestamp";
-    public static final String VERSION = "v";
+    public static final String VERSION = "ver";
     public static final String SIGN = "sign";
-    public static final String ACCESS_TOKEN = "access_token";
-    public static final String PARAM_JSON = "param_json";
+    public static final String ACCESS_TOKEN = "accesstoken";
+    public static final String PARAM_JSON = "param";
 
-    public static final String AUTHORIZATION_CODE = "authorization_code";
+    public static final String AUTHORIZATION_CODE = "code";
 
     public static final String REFRESH_GRANT_TYPE = "refresh_token";
     /**
@@ -50,4 +50,6 @@ public class Constants {
     public static final String CTYPE_APPLICATION_XML = "application/xml";
     public static final String CTYPE_TEXT_PLAIN = "text/plain";
     public static final String CTYPE_APP_JSON = "application/json";
+    
+    /** others **/
 }
