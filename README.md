@@ -18,7 +18,7 @@
 ❗ ❗ 使用提示：选SVIP线路，更稳定
 
 
-# 2、Nord   [Nord官网地址](http://get.affiliatescn.net/aff_c?offer_id=153&aff_id=38201&url_id=613&aff_click_id=github&aff_sub=gitbest&aff_sub2=tizi)
+# 2、Nord   [Nord官网地址](http://get.affiliatescn.net/aff_c?offer_id=153&aff_id=38201&url_id=613&aff_click_id=adan&aff_sub=adan&aff_sub2=tizi)
 ✅ 推荐，老牌梯子，多次被评为No.1，超强加密，服务器节点5000+
 
 ✅ 最多人再次购买的梯子工具
@@ -31,7 +31,7 @@
 
 
 
-# 3、Express [Express官网地址](https://www.xvbelink.com/black-friday-cyber-monday?a_fid=tizi_vpn&chan=gitbest&data1=tizi)
+# 3、Express [Express官网地址](https://www.xvbelink.com/black-friday-cyber-monday?a_fid=tizi_vpn&chan=adan&data1=tizi)
 ✅ 多年评为全球服务第一，除了贵没别的毛病，30天内无理由退款
 
 ✅ 近期有Black Friday活动，免费赠送3个月
