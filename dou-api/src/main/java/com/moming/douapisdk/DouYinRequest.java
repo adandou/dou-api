@@ -4,8 +4,6 @@ import java.util.Map;
 
 /**
  * Api请求接口
- * @author tianzong
- * @date 2020/7/23
  */
 public interface DouYinRequest <T extends BaseDouYinResponse> {
 
