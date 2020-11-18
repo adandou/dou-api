@@ -4,10 +4,8 @@ import lombok.Data;
 import lombok.EqualsAndHashCode;
 
 /**
- * DouYin客户端异常
+ * exception process
  *
- * @author tianzong
- * @date 2020/7/23
  */
 @EqualsAndHashCode(callSuper = true)
 @Data
