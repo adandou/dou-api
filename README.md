@@ -23,7 +23,7 @@
 
 ✅ 最多人再次购买的梯子工具
 
-✅ 近期有超值2年套餐
+✅ 近期有超值2年套餐，Black Friday活动赠3个月时长
 
 🔥🔥 **限时优惠码： NERDWRITER**
 
@@ -34,7 +34,7 @@
 # 3、Express [Express官网地址](https://www.xvbelink.com/black-friday-cyber-monday?a_fid=tizi_vpn&chan=adan&data1=tizi)
 ✅ 多年评为全球服务第一，除了贵没别的毛病，30天内无理由退款
 
-✅ 近期有Black Friday活动，免费赠送3个月
+✅ 近期有Black Friday活动，1年套餐赠送3个月时长
 
 **注意** ：官网需翻墙打开，不影响购买后使用，可以用panda试用先翻墙再买
 
