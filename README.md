@@ -3,7 +3,7 @@
 ❗ ❗ 前言：10月份GFW升级，又有一批梯子不能用了，且用且珍惜
 
 
-# 1、Panda <a href="https://www.panhdpe.xyz/r/22216799" target="_blank">Panda官网地址（活动链接），可免费试用</a>
+# 1、Panda <a href="https://www.pankvyh.xyz/r/22216799" target="_blank">Panda官网地址（活动链接），可免费试用</a>
 ✅ 海外华人团队开发，对中国地区的支持也非常好
 
 ✅ **3天免费试用**（尽情体验网络的速度、稳定性，决定是否购买）
